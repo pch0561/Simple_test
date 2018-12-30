@@ -1,2 +1,2 @@
 # Simple_test
-test just test
+Practice git
